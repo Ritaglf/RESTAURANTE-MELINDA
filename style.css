@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2? family= Cabine & family= Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200; 1.300;1.400;1.500;1.600;1.700;1.800;1.900 & display=trocar');
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Nunito';
+}
+
+.logo{
+    display: inline-flexbox;
+    background: #470506;
+    text-align: center;
+}
+
+#botao{
+    background: yellow;
+    padding: 25px;
+    border-radius: 20px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#botao:hover{
+    background: rgb(82, 82, 203);
+}
+
+#atendimento{
+    color:white;
+    padding-top: 15px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    font-size: 15px;
+}
+
+.service{
+    margin-top: 0;
+    text-align: center;
+    font-size: 25px;
+}
+
+.service2{
+    display: inline-flexbox;
+    width: 100%;
+    text-align: center;
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+.img{
+    display: inline-flexbox;
+    width: 100%;
+    text-align: center;
+    background: #470506;
+}
+
+.youtube{
+    display: inline-flexbox;
+    width: 100%;
+    text-align: center;
+    background: #470506;
+    padding-bottom: 5px;
+}
+
+footer{
+    display: inline-flexbox;
+    width: 100%;
+    text-align: center;
+    background: #470506;
+    margin-top: 5px;
+    padding-top: 3px;
+    color: white;
+}
+
+.name {
+    font-size: 25px;
+}
