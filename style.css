@@ -18,7 +18,7 @@ body{
 
 #botao{
     background: yellow;
-    padding: 25px;
+    padding: 22px;
     border-radius: 20px;
     color: black;
     text-transform: uppercase;
@@ -26,15 +26,15 @@ body{
 }
 
 #botao:hover{
-    background: rgb(82, 82, 203);
+    background: orangered
 }
 
 #atendimento{
     color:white;
-    padding-top: 15px;
+    padding-top: 20px;
     margin-bottom: 0%;
     padding-bottom: 0%;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .service{
